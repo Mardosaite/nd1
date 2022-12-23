@@ -11,6 +11,7 @@ Antroje versijoje yra nuskaitomas failas ir suskaiciuojami galutiniai pazymiai b
 
 0.4 V
 Pirmiausia programa paprašo įvesti studentų skaičių. Kai skaičius yra įvedamas, tada sukuriamas txt failas su tiek studentų (vardas, pavardė ir random suskaičiuotas GP). Toliau tas sukurtas failas yra nuskaitomas. Kai failas yra nuskaitytas tada studentai yra suskirstomi į dvi kategorijas- protingi ir vargšiukai. Toliau studentus suskirstytus į dvi katerogijas sudeda i du naujus txt failus. Taip pat programoje atlikta greičio analizė: failų kūrimas; duomenų nuskaitymas iš failų; studentų rūšiavimas į dvi grupes/kategorijas; surūšiuotų studentų išvedimas į du naujus failus.
+
 V1.1
 Šioje versijoje sukuriama "Studentas" klasė. Atlikta spartos analizė lyginant struct ir class veikimą.
 
