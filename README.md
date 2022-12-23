@@ -14,10 +14,8 @@ Pirmiausia programa paprašo įvesti studentų skaičių. Kai skaičius yra įve
 V1.1
 Šioje versijoje sukuriama "Studentas" klasė. Atlikta spartos analizė lyginant struct ir class veikimą.
 
-nuskaitymas		rušiavimas		išvedimas	
-struct	class	struct	class	struct	class
-1 000 000	41.5129s	70.5627s	10.1148s	11.3529s	21.8778s	27.5018s
-10 000 000	447.245s	682.942s	180.172s	237.483s	220.618s	260.772s
+<img width="518" alt="image" src="https://user-images.githubusercontent.com/112689078/209298519-7bef4e17-3c37-4364-83e1-8c26ad3e996f.png">
+
 Spartos analizė priklausomai nuo kompiliatoriaus optimizavimo lygio:
 
 1 000 000		
