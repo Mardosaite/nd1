@@ -18,8 +18,4 @@ V1.1
 
 Spartos analizė priklausomai nuo kompiliatoriaus optimizavimo lygio:
 
-1 000 000		
-flag'as	nuskaitymas	rušiavimas	išvedimas
-O1	73.0281s	14.9365s	26.4519s
-O2	73.7592s	14.151s	26.6388s
-O3	73.4099s	14.0969s	27.2403s
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/112689078/209298605-36073aab-8228-4901-8075-a7d4f5c144e6.png">
